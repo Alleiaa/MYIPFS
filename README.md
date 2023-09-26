@@ -1,5 +1,4 @@
 # My NFT Profiles
-
 - 0xa (1).jpg
 - 0xa (2).jpg
 - 0xa (3).jpg
